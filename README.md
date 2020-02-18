@@ -24,6 +24,12 @@ To view interactive content or to modify elements within the IPython notebooks, 
 
 Notebooks tested with Python 3.6.x.
 
+### Setting up conda environment
+
+In the root of the project there is a platform independent ```environmnet.yml``` file.
+
+You can find up-to-date instructions on how to install and activate it [here (conda documentation)](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+
 ### Dependencies
 
 Make sure you have the following dependencies installed in the Python environment that you will run the notebook:
